@@ -1,13 +1,3 @@
-Keven Hernandez    
-May 12, 2023   
-SciTec Assignment Solution  
-
-### Build Notes
->* Please run one of the below commands in the project's root directory
->* Any one of these commands will automatically build and run the project. The tests are included in a separate executable if opted for.
-
-* *Recommended*: Option C | Building Catch2 can take more than a minute if you dont care about tests just a simple `make` will do
-
 ***Option A (Makefile-no tests):***    
     `make && make clean && ./$(basename "$PWD")`
 
