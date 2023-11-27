@@ -16,7 +16,7 @@
 
 ---
 
-![alt text]("./preview.jpeg")
+![alt text]("preview.jpg")
 
 ### About Tests
 * I wanted to include additional tests just to be sure things work corectly and to showcase what testing framework I use. I opted for the  
