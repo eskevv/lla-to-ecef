@@ -21,7 +21,7 @@
 ### About Tests
 * I wanted to include additional tests just to be sure things work corectly and to showcase what testing framework I use. I opted for the  
 Catch2 framework here that works very well and is easy to setup. The few tests I created are placed in the tests directory next to the src dir.  
-I tested some of the assignment problems and also a different way to calculate the velocity, although not many tests cases were actually implemented.
+Tests also include different way to calculate the velocity
 
 ---
 ### Additional Notes
